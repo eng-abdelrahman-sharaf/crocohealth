@@ -1,4 +1,6 @@
-![logo](logo.png)
+<img src="logo.png" width="100"/>
+
+![gdg-certificate](3rd-place-certificate.jpg)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
